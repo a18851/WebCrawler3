@@ -1,0 +1,9 @@
+requirement_name,description,confidence
+Show Ingredients List,Ingredients must be listed.,0.926
+Show Net Quantity,Net content must be shown.,0.888
+Show Expiration Date,Expiration date must be present.,0.936
+Show Manufacturer Info,Must show responsible party.,0.889
+Use French Language,Must include French text.,0.922
+Show Storage Instructions,Storage conditions must be provided.,0.974
+Show Usage Instructions,Usage instructions must be included.,0.889
+Show Brand Name,Must display brand or product name.,0.94

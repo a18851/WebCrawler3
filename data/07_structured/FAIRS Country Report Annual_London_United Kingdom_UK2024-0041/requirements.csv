@@ -1,0 +1,5 @@
+requirement_name,description,confidence
+Show Ingredients List,Ingredients must be listed.,0.954
+Show Net Quantity,Net content must be shown.,0.891
+Show Manufacturer Info,Must show responsible party.,0.913
+Show Brand Name,Must display brand or product name.,0.853

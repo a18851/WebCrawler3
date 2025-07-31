@@ -1,0 +1,8 @@
+requirement_name,description,confidence
+Show Ingredients List,Ingredients must be listed.,0.942
+Show Net Quantity,Net content must be shown.,0.897
+Show Manufacturer Info,Must show responsible party.,0.86
+Use French Language,Must include French text.,0.813
+Show Storage Instructions,Storage conditions must be provided.,0.897
+Show Usage Instructions,Usage instructions must be included.,0.87
+Show Brand Name,Must display brand or product name.,0.852

@@ -1,0 +1,5 @@
+requirement_name,description,confidence
+Show Ingredients List,Ingredients must be listed.,0.956
+Show Manufacturer Info,Must show responsible party.,0.951
+Show Storage Instructions,Storage conditions must be provided.,0.923
+Show Brand Name,Must display brand or product name.,0.941

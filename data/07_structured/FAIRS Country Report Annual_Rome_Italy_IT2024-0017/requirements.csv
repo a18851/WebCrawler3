@@ -1,0 +1,5 @@
+requirement_name,description,confidence
+Show Ingredients List,Ingredients must be listed.,0.921
+Use French Language,Must include French text.,0.826
+Show Storage Instructions,Storage conditions must be provided.,0.855
+Show Brand Name,Must display brand or product name.,0.918
